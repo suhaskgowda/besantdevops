@@ -1,0 +1,8 @@
+sudo yum install git
+mkdir
+git init
+create a file
+git add 
+git commit -m <message we want to give>
+to check the status git status
+
