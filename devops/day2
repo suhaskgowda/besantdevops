@@ -1,0 +1,7 @@
+git log
+git show commit id
+to push local repo to remote repo
+create git hub account
+git remote add <give a name>
+git push <given name>
+
