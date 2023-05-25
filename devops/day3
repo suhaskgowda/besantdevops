@@ -1,0 +1,7 @@
+welcome to day3
+git branch to check available branch
+git branch <give a name> to create a branch
+git checkout to move from one to another branch
+git merge <name> here name indicates from which you want to merge
+thank you
+
